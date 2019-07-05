@@ -1,0 +1,2 @@
+This is file in dir_1
+
